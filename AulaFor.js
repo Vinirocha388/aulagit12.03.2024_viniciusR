@@ -7,4 +7,4 @@ for (let i = 1; i <= 10; i++) {
 }
 
 //Exibo que terminou 
-console.log("Terminou o For!!!");
+console.log("Fim do FOR!!!");
