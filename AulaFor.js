@@ -6,5 +6,4 @@ for (let i = 1; i <= 10; i++) {
     console.log(i);
 }
 
-//mostro que terminou
 console.log("Terminou o For!!!");
